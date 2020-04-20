@@ -107,4 +107,4 @@ venv.bak/
 .DS_Store
 
 # data
-./data/
+data/
